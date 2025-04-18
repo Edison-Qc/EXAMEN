@@ -22,7 +22,7 @@ while (True):
         Usuario = input()
         print("Ingrese su contraseña")
         Contraseña = input()
-        if (Usuario == "1" and Contraseña == "1"):
+        if (Usuario == "Quispe" and Contraseña == "76165900"):
             print("=== Bienvenido ===")
         else:
             print("Usuario o contraseña incorrecta")
